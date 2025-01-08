@@ -39,7 +39,7 @@ Integrate your Langgraph system with Chainlit for a user-friendly interface:
 
 ## Getting Started
 ### Prerequisites
-- Python 3.8+
+- Python 3.10+
 - Install dependencies using `pip install -r requirements.txt`
 
 ### Running Examples
