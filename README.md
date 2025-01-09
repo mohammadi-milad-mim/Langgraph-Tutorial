@@ -58,7 +58,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-Special thanks to the faculty and students of the **University of Tehran** for their engagement and contributions to this repository.
+Special thanks to Dr. Hesham Faili (course instructor), Samaneh PaymaniRad (Chef TA), AmirHossein Safdarain (TA/Workshop Co-Instructor), and students of the **University of Tehran** for their engagement and contributions to this repository.
 
 ---
 We hope you find this repository useful and informative. Happy learning!
